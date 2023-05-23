@@ -11,6 +11,8 @@ Steps:
 6.) Performed preprocessing steps on the test data and made predictions
 7.) Created the submitted file
 
+Kaggle Profiel: https://www.kaggle.com/hamzah821
+
 Sources:
 https://www.kaggle.com/code/anandhuh/titanic-simple-solution-top-12 
 https://github.com/ahmedbesbes/How-to-score-0.8134-in-Titanic-Kaggle-Challenge/blob/master/article_1.ipynb

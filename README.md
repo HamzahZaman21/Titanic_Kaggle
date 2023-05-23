@@ -1,5 +1,5 @@
 # Titanic_Kaggle
-This notebook contains the code I used to get a score of 0.79186 (TOP 5%) on the Titanic-Machine Learning from Disaster Kaggle Competition. Sources I used are outlined below. 
+This notebook contains the code I used to get a score of 0.79186 (TOP 5%) on the Titanic-Machine Learning from Disaster Kaggle Competition (https://www.kaggle.com/competitions/titanic) . Sources I used are outlined below. 
 
 Steps:
 
